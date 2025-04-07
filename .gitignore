@@ -1,0 +1,6 @@
+build/
+dist/
+TaskTracker.spec
+build_exe.bat
+test_setup.py
+__pycache__
